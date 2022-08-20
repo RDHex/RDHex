@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rdhex.io)
-
+[![MasterHead](https://cutewallpaper.org/21/naruto-gif-wallpaper/Naruto-Uzaumaki.gif)](https://rdhex.io)
 <h1 align="center">Hi 👋, I'm Rishabh Dubey</h1>
 <h3 align="center">Designer and Java Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
