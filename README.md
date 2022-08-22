@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Angular 14, Hibernate and MySQL**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zWmrvYfe5afXg39y7mXFSuZOeKhxOXiK/view?usp=sharing](https://drive.google.com/file/d/1zWmrvYfe5afXg39y7mXFSuZOeKhxOXiK/view?usp=sharing)
+- 📄 Know about my experiences through [My Resume](https://drive.google.com/file/d/1zWmrvYfe5afXg39y7mXFSuZOeKhxOXiK/view?usp=sharing)
 
 - ⚡ Fun fact **I can survive on good coffee alone**
 
